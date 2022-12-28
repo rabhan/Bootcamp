@@ -17,8 +17,9 @@
   </properties>
 
   <modules>
-    <module>server</module>
+    <!-- <module>server</module> -->
     <!-- <module>webapp</module> -->
+    <module>webgoat/webgoat</module>
   </modules>
 
   <distributionManagement>
